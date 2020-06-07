@@ -1,4 +1,4 @@
-use myproject::greet;
+use newproject::greet;
 fn main() {
-	greet();
+    greet();
 }
